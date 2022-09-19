@@ -18,7 +18,7 @@ polkadot-subsystem = { package = "polkadot-node-subsystem", path = "../../subsys
 
 [dev-dependencies]
 log = "0.4.13"
-env_logger = "0.8.2"
+env_logger = "0.9.1"
 assert_matches = "1.4.0"
 futures-timer = "3.0.2"
 
